@@ -10,4 +10,4 @@ Sub-info = script-name=2号机场,update-interval=7200
 [Script]
 1号机场 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fem.mesl.cloud%2Fems%2Fget%3Ftoken%3Dd377b4e6f56fa46e81bd88903e60153d&title=MESL&reset_day=6&icon=tornado&color=#DF4688
 
-2号机场 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fspeedtest.jhelbt92.tianschool.cn%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D00b1233f557049ec7ee2841ce6026bb2&title=OVO&reset_day=4&icon=waveform&color=#EF6D20
+2号机场 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fapi.yingtaowangluo.net%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D6588b5c68fac5c99d90abca61f2d821f&title=OVO&reset_day=4&icon=waveform&color=#EF6D20
