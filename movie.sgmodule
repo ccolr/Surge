@@ -1,0 +1,7 @@
+#!name=热映电影
+#!desc=热映电影面板
+#!category=🌠 面板模块
+[Panel]
+热映电影=script-name=热映电影
+[Script]
+热映电影=type=generic,script-path=https://raw.githubusercontent.com/ccolr/Surge/master/movie.js,argument=icon=film&color=#d66969
