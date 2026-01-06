@@ -1,5 +1,5 @@
 const params = getParams($argument);
-const url = "https://movie.douban.com/cinema/nowplaying/shanghai/";
+const url = "https://movie.douban.com/cinema/nowplaying/chengdu/";
 $httpClient.get(url, function (error, response, data) {
     if (error) {
         console.log("请求失败:", error);
