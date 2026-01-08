@@ -1,0 +1,16 @@
+# NAME: O2 && giffgaff
+# AUTHOR: evacmotaku
+# HOMEPAGE: https://blog.cco.moe
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+
+# Ultra Mobile Account
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,ultra.me
+
+# T-Mobile Infrastructure
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,t-mobile.us
+
+# VoWiFi / IMS (Critical)
+DOMAIN-SUFFIX,3gppnetwork.org
