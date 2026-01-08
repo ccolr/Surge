@@ -1,0 +1,37 @@
+# NAME: HK Banks
+# AUTHOR: evacmotaku
+# HOMEPAGE: https://blog.cco.moe
+
+DOMAIN,data.help.jr.mi.com
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN,antbank-cdn.marmot-cloud.com
+DOMAIN-SUFFIX,ant-hkbank-linkd.cn-hongkong.log.aliyuncs.com
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,etnet.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
+DOMAIN,log-58144bf0.we-stats.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,online-metrix.net
+DOMAIN-SUFFIX,we-stats.com
+DOMAIN,mobileapm.icbc.com.cn
+DOMAIN,mobilehk.icbc.com.cn
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,icbc-asia.icbc.com.cn
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,myebankasia.icbc.com.cn
+DOMAIN-SUFFIX,paob.com.hk
+DOMAIN,mcat.lu.com
+DOMAIN-SUFFIX,welab.bank
+DOMAIN,api3.branch.io
+DOMAIN,cdn.branch.io
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zafinsvc.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zhongan.com
+DOMAIN-SUFFIX,zhongan.io
+DOMAIN-SUFFIX,zaticdn.com
