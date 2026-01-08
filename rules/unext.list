@@ -1,13 +1,26 @@
 # NAME: U-Next
 # AUTHOR: evacmotaku
 # HOMEPAGE: https://blog.cco.moe
-# DOMAIN-SUFFIX: 5
-# DOMAIN-KEYWORD: 1
-# TOTAL: 6
 
+# ===== U-NEXT 核心 =====
 DOMAIN-SUFFIX,unext.jp
-DOMAIN-SUFFIX,unext.com
 DOMAIN-SUFFIX,u-next.jp
+DOMAIN-SUFFIX,unext.com
 DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,arkm.jp
 DOMAIN-KEYWORD,unext
+
+# ===== 播放 & 鉴权 =====
+DOMAIN-SUFFIX,videomarket.jp
+DOMAIN-KEYWORD,videomarket
+DOMAIN-KEYWORD,player
+
+# ===== CDN / 视频流 =====
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastly-edge.com
+
+# ===== 保险兜底（防止新 CDN）=====
+IP-CIDR,23.0.0.0/8,no-resolve
+IP-CIDR,104.0.0.0/8,no-resolve
