@@ -1,0 +1,26 @@
+# NAME: O2 && giffgaff
+# AUTHOR: evacmotaku
+# HOMEPAGE: https://blog.cco.moe
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
+
+# giffgaff core
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,giffgaff.co.uk
+DOMAIN-SUFFIX,giffgaffcdn.co.uk
+DOMAIN-SUFFIX,gff.gf
+DOMAIN-SUFFIX,giff.ly
+
+# O2 Core
+DOMAIN-SUFFIX,o2.co.uk
+DOMAIN-SUFFIX,o2.com
+DOMAIN-SUFFIX,o2wifi.co.uk
+DOMAIN-SUFFIX,o2priority.co.uk
+
+# O2 Backend (Telefónica)
+DOMAIN-SUFFIX,telefonica.co.uk
+DOMAIN-SUFFIX,telefonica.com
+DOMAIN-SUFFIX,telefonica-uk.co.uk
+
+# VoWiFi / IMS Standard
+DOMAIN-SUFFIX,3gppnetwork.org
