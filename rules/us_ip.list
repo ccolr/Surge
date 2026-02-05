@@ -1,0 +1,10 @@
+# NAME: US IP
+# AUTHOR: evacmotaku
+# HOMEPAGE: https://blog.cco.moe
+# updating...
+
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,edu
+DOMAIN-SUFFIX,mil
+DOMAIN-SUFFIX,latimes.com
