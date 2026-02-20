@@ -1,7 +1,9 @@
-# NAME: HK Banks
+# NAME: HK IP
 # AUTHOR: evacmotaku
 # HOMEPAGE: https://blog.cco.moe
 
+DOMAIN_SUFFIX,hk
+DOMAIN_SUFFIX,clubsim.com.hk
 DOMAIN,data.help.jr.mi.com
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN,antbank-cdn.marmot-cloud.com
