@@ -12,6 +12,6 @@ Sub-info = script-name=Airport3,update-interval=7200
 [Script]
 Airport1 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fem.mesl.cloud%2Fems%2Fget%3Ftoken%3Dd377b4e6f56fa46e81bd88903e60153d&title=A&reset_day=6&icon=rosette&color=#DF4688
 
-Airport2 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fem.mesl.cloud%2Fems%2Fget%3Ftoken%3Dd342a927de0ab0acad554708c0a0d2ec&title=B&reset_day=6&icon=trophy&color=#E0B0FF
+Airport2 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fem.mesl.cloud%2Fems%2Fget%3Ftoken%3Dd342a927de0ab0acad554708c0a0d2ec&title=B&reset_day=28&icon=trophy&color=#E0B0FF
 
 Airport3 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fapi.yingtaowangluo.net%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D6588b5c68fac5c99d90abca61f2d821f&title=🍒 Cherry&icon=medal&color=#EF6D20
