@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,myebankasia.icbc.com.cn
 DOMAIN-SUFFIX,paob.com.hk
 DOMAIN,mcat.lu.com
 DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,branch.io
 DOMAIN,api3.branch.io
 DOMAIN,cdn.branch.io
 DOMAIN-SUFFIX,za.group
@@ -37,4 +38,4 @@ DOMAIN-SUFFIX,zhongan.com
 DOMAIN-SUFFIX,zhongan.io
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,cuniq.com
-DOMAIN-SUFFIX,cuniq.comundefined
+DOMAIN-KEYWORD,cuniq
