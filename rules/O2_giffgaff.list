@@ -28,6 +28,9 @@ DOMAIN-SUFFIX,3gppnetwork.org
 
 # Other
 DOMAIN,privacyportal-uk.onetrust.com
+ODMAIN,nexus-europe-websocket.intercom.io
+DOMAIN,collection.decibelinsight.net
+DOMAIN,mobile-data.onetrust.io
 DOMAIN-KEYWORD,giffgaff
 DOMAIN-KEYWORD,giff
 DOMAIN-KEYWORD,gaff
