@@ -25,3 +25,11 @@ DOMAIN-SUFFIX,telefonica-uk.co.uk
 
 # VoWiFi / IMS Standard
 DOMAIN-SUFFIX,3gppnetwork.org
+
+# Other
+DOMAIN,privacyportal-uk.onetrust.com
+DOMAIN-KEYWORD,giffgaff
+DOMAIN-KEYWORD,giff
+DOMAIN-KEYWORD,gaff
+DOMAIN-KEYWORD,gff
+DOMAIN-KEYWORD,uk
