@@ -9,8 +9,13 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,giffgaff.co.uk
 DOMAIN-SUFFIX,giffgaffcdn.co.uk
 DOMAIN-SUFFIX,giffgaff.design
+DOMAIN-SUFFIX,giffgaffpioneers.com
 DOMAIN-SUFFIX,gff.gf
 DOMAIN-SUFFIX,giff.ly
+DOMAIN-KEYWORD,giffgaff
+DOMAIN-KEYWORD,giff
+DOMAIN-KEYWORD,gaff
+DOMAIN-KEYWORD,gff
 
 # O2 Core
 DOMAIN-SUFFIX,o2.co.uk
@@ -31,8 +36,4 @@ DOMAIN,privacyportal-uk.onetrust.com
 DOMAIN,nexus-europe-websocket.intercom.io
 DOMAIN,collection.decibelinsight.net
 DOMAIN,mobile-data.onetrust.io
-DOMAIN-KEYWORD,giffgaff
-DOMAIN-KEYWORD,giff
-DOMAIN-KEYWORD,gaff
-DOMAIN-KEYWORD,gff
 DOMAIN-KEYWORD,uk
