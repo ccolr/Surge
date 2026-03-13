@@ -28,4 +28,7 @@ DOMAIN-SUFFIX,everesttelecom.com
 DOMAIN-SUFFIX,nuvox.com
 DOMAIN-SUFFIX,redventures.io
 DOMAIN-SUFFIX,cohesionapps.com
+DOMAIN-SUFFIX,hellohelium.com
+DOMAIN-SUFFIX,expo.dev
+DOMAIN-KEYWORD,helium
 IP-CIDR,185.125.190.57/32
