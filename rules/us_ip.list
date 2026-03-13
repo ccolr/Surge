@@ -30,5 +30,11 @@ DOMAIN-SUFFIX,redventures.io
 DOMAIN-SUFFIX,cohesionapps.com
 DOMAIN-SUFFIX,hellohelium.com
 DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercom.help
+DOMAIN,quest-api-eta.vercel.app
 DOMAIN-KEYWORD,helium
+DOMAIN-KEYWORD,intercom
 IP-CIDR,185.125.190.57/32
