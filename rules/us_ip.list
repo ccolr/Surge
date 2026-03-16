@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercom.help
 DOMAIN-SUFFIX,typekit.net
 DOMAIN,quest-api-eta.vercel.app
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,helium
 DOMAIN-KEYWORD,intercom
 IP-CIDR,185.125.190.57/32
