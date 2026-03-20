@@ -35,7 +35,10 @@ DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,intercomassets.com
 DOMAIN-SUFFIX,intercom.help
 DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,braze-images.com
 DOMAIN,quest-api-eta.vercel.app
+DOMAIN-KEYWORD,braze
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,claude
