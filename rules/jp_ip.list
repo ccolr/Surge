@@ -4,6 +4,8 @@
 # updating...
 
 DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,co.jp
+DOMAIN-SUFFIX,ac.jp
 DOMAIN-SUFFIX,japan
 DOMAIN-SUFFIX,tokyo
 DOMAIN-SUFFIX,kyoto
