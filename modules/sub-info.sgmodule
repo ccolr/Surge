@@ -18,4 +18,4 @@ Airport2 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/
 
 Airport3 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fconf1.hokkaido-toyoni.com%2Foosaka%2F8e4e01caf08255955f16cbc8bf6b7d37&title=🎀 Kitty&reset_day=7&icon=medal.star&color=#EE84AA
 
-Airport4 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fmsub.xn--m7r52rosihxm.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Defa7a0bbfda5b9d789eb3c776997434c&title=⚔️ The Lord of the Rings&icon=medal&color=#EF6D20
+Airport4 = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/cc63/Surge/main/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=86400,argument=url=https%3A%2F%2Fmsub.xn--m7r52rosihxm.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D203f0230c8fb4ee7adb1e91079e9d0d8&title=⚔️ The Lord of the Rings&icon=medal&color=#EF6D20
