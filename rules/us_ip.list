@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,visa.com
 DOMAIN-SUFFIX,mastercard.com
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN,quest-api-eta.vercel.app
 DOMAIN-KEYWORD,braze
 DOMAIN-KEYWORD,openai
