@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,wme-digital.com
+DOMAIN-SUFFIX,turner.com
+DOMAIN-SUFFIX,ngtv.io
 PROCESS-NAME,com.hbo.hbonow
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
