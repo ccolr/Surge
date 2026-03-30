@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,ctfassets.net
+DOMAIN-SUFFIX,wme-digital.com
 PROCESS-NAME,com.hbo.hbonow
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
